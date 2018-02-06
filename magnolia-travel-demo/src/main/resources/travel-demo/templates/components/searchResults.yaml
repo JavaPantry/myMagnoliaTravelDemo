@@ -1,0 +1,3 @@
+renderType: freemarker
+templateScript: /travel-demo/templates/components/searchResults.ftl
+dialog: travel-demo:components/searchResults

@@ -1,0 +1,4 @@
+templateScript: /travel-demo/templates/components/link.ftl
+dialog: travel-demo:components/link
+
+renderType: freemarker

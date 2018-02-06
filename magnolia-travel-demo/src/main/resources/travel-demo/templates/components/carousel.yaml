@@ -1,0 +1,14 @@
+templateScript: /travel-demo/templates/components/carousel.ftl
+dialog: travel-demo:components/carousel
+
+renderType: freemarker
+
+areas:
+  carouselItems:
+    templateScript: /travel-demo/templates/components/carouselArea.ftl
+    type: list
+    availableComponents:
+      textImage:
+        id: travel-demo:components/textImage
+      teaser:
+        id: travel-demo:components/teaser

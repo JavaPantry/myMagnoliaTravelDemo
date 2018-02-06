@@ -1,0 +1,4 @@
+templateScript: /travel-demo/templates/components/textImage.ftl
+dialog: travel-demo:components/textImage
+
+renderType: freemarker

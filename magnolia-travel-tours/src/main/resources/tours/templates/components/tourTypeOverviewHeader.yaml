@@ -1,0 +1,2 @@
+templateScript: /tours/templates/components/tourTypeOverviewHeader.ftl
+renderType: freemarker

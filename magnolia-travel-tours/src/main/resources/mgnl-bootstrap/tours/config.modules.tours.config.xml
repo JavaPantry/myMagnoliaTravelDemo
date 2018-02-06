@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node sv:name="config" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:content</sv:value>
+  </sv:property>
+  <sv:property sv:name="defaultTourName" sv:type="String">
+    <sv:value>Hut-to-Hut-in-the-Swiss-Alps</sv:value>
+  </sv:property>
+  <sv:property sv:name="destinationRootNode" sv:type="String">
+    <sv:value>destinations</sv:value>
+  </sv:property>
+  <sv:property sv:name="tourTypeRootNode" sv:type="String">
+    <sv:value>tour-types</sv:value>
+  </sv:property>
+</sv:node>
+

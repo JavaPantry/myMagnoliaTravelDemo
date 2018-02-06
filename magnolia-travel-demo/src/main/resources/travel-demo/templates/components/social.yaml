@@ -1,0 +1,4 @@
+templateScript: /travel-demo/templates/components/social.ftl
+dialog: travel-demo:components/social
+
+renderType: freemarker

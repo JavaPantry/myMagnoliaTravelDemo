@@ -1,0 +1,6 @@
+templateScript: /tours/templates/components/tourList.ftl
+modelClass: info.magnolia.demo.travel.tours.model.TourListModel
+class: info.magnolia.demo.travel.tours.model.definition.TourCategoryTemplateDefinition
+
+renderType: freemarker
+category: destination
